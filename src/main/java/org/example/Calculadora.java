@@ -11,11 +11,13 @@ public class Calculadora {
     }
 
     public double sumar(){
-
+        return numero1 + numero2;
     }
 
 
-
+    public double restar(){
+        return numero1 - numero2;
+    }
 
 
 
